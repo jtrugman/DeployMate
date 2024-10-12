@@ -34,6 +34,21 @@ DeployMate is a powerful CLI tool designed to streamline the setup and managemen
    sudo mv deploymate /usr/local/bin/
    ```
 
+### Using Homebrew
+
+You can install DeployMate using Homebrew:
+
+```bash
+brew tap jtrugman/deploymate
+brew install deploymate
+```
+
+Or in a single command:
+
+```bash
+brew install jtrugman/deploymate/deploymate
+```
+
 ## Usage
 
 ### Adding deployment components
