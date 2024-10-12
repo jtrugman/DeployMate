@@ -1,4 +1,4 @@
-module deploymate
+module github.com/jtrugman/deploymate
 
 go 1.23
 

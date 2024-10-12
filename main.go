@@ -1,6 +1,6 @@
 package main
 
-import "deploymate/cmd"
+import "github.com/jtrugman/deploymate/cmd"
 
 func main() {
 	cmd.Execute()
